@@ -1,0 +1,19 @@
+{
+  "name": "scrollbarwidth",
+  "version": "1.0.0",
+  "description": "simple function to retrieve the browser scrollbar width",
+  "main": "scrollbarwidth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopmode/scrollbarwidth.git"
+  },
+  "author": "Jovica Aleksic <jovica.aleksic@loopmode.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loopmode/scrollbarwidth/issues"
+  },
+  "homepage": "https://github.com/loopmode/scrollbarwidth#readme"
+}
