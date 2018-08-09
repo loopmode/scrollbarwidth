@@ -9,7 +9,7 @@
      */
     function scrollbarwidth(target) {
         if (target) {
-            return target.offsetWidth - target.clientWIdth;
+            return target.offsetWidth - target.clientWidth;
         }
         return window.innerWidth - window.documentElement.clientWidth;
     }
